@@ -5,8 +5,8 @@
 # Date: 2025-09-22
 # R version: >= 4.3
 # Description: 
-# Inputs: <list CSV/RDS/objects used>
-# Outputs: <file(s) saved, e.g., figure_a.pdf>
+# Inputs: 
+# Outputs: fig_1.pdf
 # ============================================================
 
 # ---------- Packages ----------
