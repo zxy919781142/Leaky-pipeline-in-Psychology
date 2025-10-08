@@ -15,4 +15,17 @@ The project investigates gender differences in academic progression within the f
 ---
 
 ## Repository Structure
+Leaky-pipeline-in-Psychology/
+├─ R_code/         # R scripts for cleaning, modeling, and plotting
+├─ data/           # Input and processed data (or placeholders)
+├─ plots/          # Generated figures and outputs
+├─ Leaky-pipeline-in-Psychology.Rproj
+└─ README.md
+
+## Requirements
+
+- **R version ≥ 4.2**
+- Recommended packages:  
+  `tidyverse`, `data.table`, `janitor`, `lubridate`, `readr`, `stringr`,  
+  `ggplot2`, `patchwork`, `broom`, `scales`, and any modeling packages referenced in `R_code/`.
 
