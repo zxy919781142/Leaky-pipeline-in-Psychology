@@ -1,0 +1,136 @@
+"","X","cohort","subfield","female_proportion"
+"1",1,"2000","Clinical Psychology",0.557867360208062
+"2",7,"2000","Social Psychology",0.529090909090909
+"3",4,"2000","Neuropsychology and Physiological Psychology",0.486486486486487
+"4",0,"2000","Applied Psychology",0.534274193548387
+"5",5,"2000","General psychology",0.470672389127325
+"6",3,"2000","Experimental and Cognitive Psychology",0.490049751243781
+"7",2,"2000","Developmental and Educational Psychology",0.628304821150855
+"8",6,"2000","Psychology (miscellaneous)",0.529411764705882
+"9",0,"2000","Overall",0.535387829720554
+"10",9,"2001","Clinical Psychology",0.573770491803279
+"11",15,"2001","Social Psychology",0.538188277087034
+"12",12,"2001","Neuropsychology and Physiological Psychology",0.551948051948052
+"13",8,"2001","Applied Psychology",0.543893129770992
+"14",13,"2001","General psychology",0.507299270072993
+"15",11,"2001","Experimental and Cognitive Psychology",0.513157894736842
+"16",10,"2001","Developmental and Educational Psychology",0.644588045234249
+"17",14,"2001","Psychology (miscellaneous)",0.634146341463415
+"18",1,"2001","Overall",0.55969955969956
+"19",17,"2002","Clinical Psychology",0.596629213483146
+"20",23,"2002","Social Psychology",0.609880749574106
+"21",20,"2002","Neuropsychology and Physiological Psychology",0.51875
+"22",16,"2002","Applied Psychology",0.550847457627119
+"23",21,"2002","General psychology",0.551987767584098
+"24",19,"2002","Experimental and Cognitive Psychology",0.505070993914807
+"25",18,"2002","Developmental and Educational Psychology",0.69434628975265
+"26",22,"2002","Psychology (miscellaneous)",0.56
+"27",2,"2002","Overall",0.584295612009238
+"28",25,"2003","Clinical Psychology",0.579324462640737
+"29",31,"2003","Social Psychology",0.586620926243568
+"30",28,"2003","Neuropsychology and Physiological Psychology",0.568627450980392
+"31",24,"2003","Applied Psychology",0.586744639376218
+"32",29,"2003","General psychology",0.5890603085554
+"33",27,"2003","Experimental and Cognitive Psychology",0.527720739219713
+"34",26,"2003","Developmental and Educational Psychology",0.652388797364086
+"35",30,"2003","Psychology (miscellaneous)",0.585365853658537
+"36",3,"2003","Overall",0.587363304981774
+"37",33,"2004","Clinical Psychology",0.589162561576355
+"38",39,"2004","Social Psychology",0.572277227722772
+"39",36,"2004","Neuropsychology and Physiological Psychology",0.608974358974359
+"40",32,"2004","Applied Psychology",0.577651515151515
+"41",37,"2004","General psychology",0.605780346820809
+"42",35,"2004","Experimental and Cognitive Psychology",0.568904593639576
+"43",34,"2004","Developmental and Educational Psychology",0.681458003169572
+"44",38,"2004","Psychology (miscellaneous)",0.658536585365854
+"45",4,"2004","Overall",0.601885924563017
+"46",41,"2005","Clinical Psychology",0.629740518962076
+"47",47,"2005","Social Psychology",0.591071428571429
+"48",44,"2005","Neuropsychology and Physiological Psychology",0.641509433962264
+"49",40,"2005","Applied Psychology",0.588342440801457
+"50",45,"2005","General psychology",0.584313725490196
+"51",43,"2005","Experimental and Cognitive Psychology",0.576709796672828
+"52",42,"2005","Developmental and Educational Psychology",0.721476510067114
+"53",46,"2005","Psychology (miscellaneous)",0.592592592592593
+"54",5,"2005","Overall",0.616976252057371
+"55",49,"2006","Clinical Psychology",0.650625601539942
+"56",55,"2006","Social Psychology",0.61178247734139
+"57",52,"2006","Neuropsychology and Physiological Psychology",0.525641025641026
+"58",48,"2006","Applied Psychology",0.539033457249071
+"59",53,"2006","General psychology",0.626232741617357
+"60",51,"2006","Experimental and Cognitive Psychology",0.567765567765568
+"61",50,"2006","Developmental and Educational Psychology",0.711964549483013
+"62",54,"2006","Psychology (miscellaneous)",0.592592592592593
+"63",6,"2006","Overall",0.621260343730108
+"64",57,"2007","Clinical Psychology",0.646954986760812
+"65",63,"2007","Social Psychology",0.613540197461213
+"66",60,"2007","Neuropsychology and Physiological Psychology",0.691176470588235
+"67",56,"2007","Applied Psychology",0.594076655052265
+"68",61,"2007","General psychology",0.619502868068834
+"69",59,"2007","Experimental and Cognitive Psychology",0.599290780141844
+"70",58,"2007","Developmental and Educational Psychology",0.704939919893191
+"71",62,"2007","Psychology (miscellaneous)",0.621212121212121
+"72",7,"2007","Overall",0.635282457879088
+"73",65,"2008","Clinical Psychology",0.655737704918033
+"74",71,"2008","Social Psychology",0.603580562659846
+"75",68,"2008","Neuropsychology and Physiological Psychology",0.674157303370786
+"76",64,"2008","Applied Psychology",0.598920863309353
+"77",69,"2008","General psychology",0.634408602150538
+"78",67,"2008","Experimental and Cognitive Psychology",0.588628762541806
+"79",66,"2008","Developmental and Educational Psychology",0.754666666666667
+"80",70,"2008","Psychology (miscellaneous)",0.671052631578947
+"81",8,"2008","Overall",0.64475138121547
+"82",73,"2009","Clinical Psychology",0.6453125
+"83",79,"2009","Social Psychology",0.603888213851762
+"84",76,"2009","Neuropsychology and Physiological Psychology",0.666666666666667
+"85",72,"2009","Applied Psychology",0.605504587155963
+"86",77,"2009","General psychology",0.606625258799172
+"87",75,"2009","Experimental and Cognitive Psychology",0.604060913705584
+"88",74,"2009","Developmental and Educational Psychology",0.766200762388818
+"89",78,"2009","Psychology (miscellaneous)",0.5875
+"90",9,"2009","Overall",0.637555328566564
+"91",81,"2010","Clinical Psychology",0.664383561643836
+"92",87,"2010","Social Psychology",0.605392156862745
+"93",84,"2010","Neuropsychology and Physiological Psychology",0.644736842105263
+"94",80,"2010","Applied Psychology",0.58908507223114
+"95",85,"2010","General psychology",0.599130907115698
+"96",83,"2010","Experimental and Cognitive Psychology",0.587761674718196
+"97",82,"2010","Developmental and Educational Psychology",0.733585858585859
+"98",86,"2010","Psychology (miscellaneous)",0.561224489795918
+"99",10,"2010","Overall",0.629243644402337
+"100",89,"2011","Clinical Psychology",0.67663421418637
+"101",95,"2011","Social Psychology",0.631460674157303
+"102",92,"2011","Neuropsychology and Physiological Psychology",0.6
+"103",88,"2011","Applied Psychology",0.609442060085837
+"104",93,"2011","General psychology",0.589622641509434
+"105",91,"2011","Experimental and Cognitive Psychology",0.579454253611557
+"106",90,"2011","Developmental and Educational Psychology",0.7451205510907
+"107",94,"2011","Psychology (miscellaneous)",0.653846153846154
+"108",11,"2011","Overall",0.63440091507006
+"109",97,"2012","Clinical Psychology",0.677170868347339
+"110",103,"2012","Social Psychology",0.630820399113082
+"111",100,"2012","Neuropsychology and Physiological Psychology",0.6578073089701
+"112",96,"2012","Applied Psychology",0.628415300546448
+"113",101,"2012","General psychology",0.639739413680782
+"114",99,"2012","Experimental and Cognitive Psychology",0.606012658227848
+"115",98,"2012","Developmental and Educational Psychology",0.752173913043478
+"116",102,"2012","Psychology (miscellaneous)",0.597701149425287
+"117",12,"2012","Overall",0.658253021263577
+"118",105,"2013","Clinical Psychology",0.684245220830587
+"119",111,"2013","Social Psychology",0.653761061946903
+"120",108,"2013","Neuropsychology and Physiological Psychology",0.645522388059702
+"121",104,"2013","Applied Psychology",0.614540466392318
+"122",109,"2013","General psychology",0.651785714285714
+"123",107,"2013","Experimental and Cognitive Psychology",0.604538087520259
+"124",106,"2013","Developmental and Educational Psychology",0.753910323253389
+"125",110,"2013","Psychology (miscellaneous)",0.560747663551402
+"126",13,"2013","Overall",0.664175690102181
+"127",113,"2014","Clinical Psychology",0.674479166666667
+"128",119,"2014","Social Psychology",0.593984962406015
+"129",116,"2014","Neuropsychology and Physiological Psychology",0.682926829268293
+"130",112,"2014","Applied Psychology",0.577777777777778
+"131",117,"2014","General psychology",0.641426783479349
+"132",115,"2014","Experimental and Cognitive Psychology",0.601637107776262
+"133",114,"2014","Developmental and Educational Psychology",0.770793036750484
+"134",118,"2014","Psychology (miscellaneous)",0.669724770642202
+"135",14,"2014","Overall",0.653169265989412
