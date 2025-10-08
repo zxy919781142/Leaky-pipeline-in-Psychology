@@ -476,3 +476,6 @@ final_3x3
 
 ggsave(here::here("plots","fig_2.pdf"), final_3x3,
        width = 18, height = 12, dpi = 300,limitsize = FALSE)  # adjust size as needed
+
+
+write.csv(survival_data_modified_filtered,here::here("result","survival_data_modified_filtered,csv"))
