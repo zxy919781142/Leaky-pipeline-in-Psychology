@@ -57,19 +57,15 @@ The project investigates gender differences in academic progression within the f
 
 + **Fig2_Stat_Description.R**:
   
-    R code for the figure 2:
-  
-    Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by gender.
+    R code for the figure 2: Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by gender.
   
 + **Fig3_4_TVEM**:
   
-    R code for the figure 3 & 4:
+    R code for the figure 3: Relative importance of predictors for academic attrition and their temporal dynamics;
   
-    Relative importance of predictors for academic attrition and their temporal dynamics;
+    R code for the figure 4: Predicted risk of leaving academia by gender across academic age and cohort group.
   
-    Predicted risk of leaving academia by gender across academic age and cohort group.
-  
-**SI_Stat_Description_cohort.R**: 
++ **SI_Stat_Description_cohort.R**: 
 
     R code for the figure S2:
     
