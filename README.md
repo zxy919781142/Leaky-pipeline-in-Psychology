@@ -45,7 +45,8 @@ The project investigates gender differences in academic progression within the f
     Transfer rate (staying academic from previous year to the target year) among psychology entranst by academic age and cohort. 
 
 ### 2. R_code
-+ **Fig1_survival_analysis.R**: R code for Figure 1 with four subplots —  
++ **Fig1_survival_analysis.R**: R code for Figure 1 with four subplots:
+  
     (a) Proportion of women among psychology entrants by subfield and cohort.
   
     (b) Kaplan–Meier survival probability of psychology entrants by gender.
@@ -54,15 +55,24 @@ The project investigates gender differences in academic progression within the f
   
     (d) Summary of gender gaps in transition rates across three time frames.  
 
-+ **Fig2_Stat_Description.R**: 
-  - R code for the figure 2:
-  - Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by gender.
++ **Fig2_Stat_Description.R**:
+  
+    R code for the figure 2:
+  
+    Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by gender.
+  
 + **Fig3_4_TVEM**:
-  - R code for the figure 3 & 4:
-  - Relative importance of predictors for academic attrition and their temporal dynamics;
-  - Predicted risk of leaving academia by gender across academic age and cohort group.
+  
+    R code for the figure 3 & 4:
+  
+    Relative importance of predictors for academic attrition and their temporal dynamics;
+  
+    Predicted risk of leaving academia by gender across academic age and cohort group.
+  
 **SI_Stat_Description_cohort.R**: 
-  - R code for the figure S2:
-  - Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by cohort group (2000–2004, 2005–2009, 2010–2014).
+
+    R code for the figure S2:
+    
+    Statistical description of factors associated with academic performance, collaboration, and institutional affiliations across career stages, disaggregated by cohort group (2000–2004, 2005–2009, 2010–2014).
 
   
